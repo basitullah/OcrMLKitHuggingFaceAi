@@ -1,6 +1,6 @@
 # test_app
 
-A new Flutter project.
+A new Flutter project. with OCR ML kit and Hugging Face Api is implemented
 
 ## Getting Started
 
