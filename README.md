@@ -1,6 +1,11 @@
-# test_app
+# Flutter Sample App
 
 A new Flutter project. with OCR ML kit and Hugging Face Api is implemented
+
+### 🎥 Demo Video
+
+[Click here to watch the demo video](assets/video/video.mp4)
+
 
 ## Getting Started
 
